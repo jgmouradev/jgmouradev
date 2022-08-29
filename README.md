@@ -1,4 +1,4 @@
-### Olá sou o João Gabriel!! Desenvolvedor Front-End e aficionado em iniciar e crescer na carreira em tecnologia.😃👨‍🦲
+### Olá sou o João Gabriel!! Desenvolvedor Front-End e aficionado em iniciar e crescer na carreira em tecnologia.😃
 
 💻 <strong>Iniciando carreira no Desenvolvimento web.</strong><br>
 📖 <strong>Estudando Javascript.</strong>
