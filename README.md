@@ -1,6 +1,6 @@
 ### Olá sou o João Gabriel!! 😃
 
-https://github-readme-stats.vercel.app/api?username={jgmouradev}&theme=dark
+
 <!--
 **jgmouradev/jgmouradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
