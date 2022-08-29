@@ -1,6 +1,6 @@
 ### Olá sou o João Gabriel!! 😃
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgmouradev)](https://github.com/jgmouradev/github-readme-stats)
 <!--
 **jgmouradev/jgmouradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
