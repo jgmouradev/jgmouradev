@@ -1,5 +1,5 @@
-### Olá sou o João Gabriel👋
-
+### Olá sou o João Gabriel!! 😃
+.
 <!--
 **jgmouradev/jgmouradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
