@@ -1,6 +1,6 @@
 ### Olá sou o João Gabriel!! 😃
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgmouradev&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgmouradev&show_icons=true&theme=)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgmouradev&layout=compact)](https://github.com/jgmouradev/github-readme-stats)
 <!--
