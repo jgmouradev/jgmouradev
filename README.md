@@ -1,4 +1,6 @@
-### Olá sou o João Gabriel!! Desenvolvedor Front-End e aficionado em iniciar e crescer na carreira em tecnologia. 😃
+### Olá sou o João Gabriel!! Desenvolvedor Front-End e aficionado em iniciar e crescer na carreira em tecnologia.😃
+
+
 
 <div>
   <a href="https://github.com/jgmouradev">
